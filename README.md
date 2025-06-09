@@ -2,7 +2,7 @@
 
 ## Overview
 This project is a private URL shortener built with YOURLS and hosted on an AWS EC2 Ubuntu instance. It uses Apache, MySQL, and PHP, with SSL via Let's Encrypt.  \
-\
+
 
 This Project was created by Ethan Brownsdon (Student Number = 35574325)
 
